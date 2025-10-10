@@ -366,12 +366,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **ChromaDB** and **Neo4j** for data storage
 - **Ollama** for local LLM inference
 
-## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/your-repo/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-repo/discussions)
-- **Documentation**: [Wiki](https://github.com/your-repo/wiki)
-
----
 
 **Built with ❤️ for the PyTorch community**
