@@ -338,14 +338,6 @@ docker build -t pytorch-rag-assistant .
 docker-compose up -d
 ```
 
-### Production Considerations
-
-1. **Use production-grade LLM APIs** (OpenAI, Anthropic, etc.)
-2. **Set up proper monitoring** and logging
-3. **Configure rate limiting** and security
-4. **Use production databases** (Neo4j Aura, ChromaDB cloud)
-5. **Set up CI/CD pipelines**
-
 ## 🤝 Contributing
 
 1. Fork the repository
