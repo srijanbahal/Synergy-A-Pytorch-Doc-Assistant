@@ -1,0 +1,15 @@
+/* PyTorch RAG Assistant - Content Script Styles */
+
+/* Ensure our styles don't conflict with existing page styles */
+.pytorch-rag-button {
+    all: initial;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
+}
+
+.pytorch-rag-highlight {
+    transition: background-color 0.3s ease !important;
+}
+
+.pytorch-rag-tooltip {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
+}
